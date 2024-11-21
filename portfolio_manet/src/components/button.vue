@@ -12,5 +12,6 @@ export default {
 <style scoped>
 .button {
   /* Styles pour le bouton */
+  /* Styles pour le bouton */
 }
 </style>
